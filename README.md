@@ -4,7 +4,10 @@
 ### Installation
 This project requires Python 3.8.3 and the following libraries installed:
 - Pandas  
-- SciPy
+- SciPy  
+- random
+- re
+- csv
 
 ### Data
 Original dataset downloaded from [here](reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/)  
