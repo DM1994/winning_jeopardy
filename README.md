@@ -1,5 +1,5 @@
 # winning_jeopardy
-## Analysing data to find the best way to win jeopardy
+## Analysing data to find the best way to win Jeopardy
 
 ### Installation
 This project requires Python 3.8.3 and the following libraries installed:
